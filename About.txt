@@ -1,0 +1,5 @@
+Hello All,
+
+This project was assigned to me during my Web Development and Designing Internship at Oasis Infobyte. 
+
+This Project is about making an effective Landing Page using HTML and CSS. In this project, I learnt about how to add columns, dividing sections, arrange items, add headers, footers and most important I used me creativity to make the more attractive and impressive. 
